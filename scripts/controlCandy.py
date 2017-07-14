@@ -32,7 +32,7 @@ class Candy():
 class controlCandy(object):
     def __init__(self):
         self.DELETE_TH = 0.4  # m
-        self.TIME_LIMIT = 12000 #seconds
+        self.TIME_LIMIT = 120 #seconds
         self.SP_INTERVAL_TIME = 15
         self.robot_name = 'mobile_base'
 
